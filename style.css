@@ -1,0 +1,21 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(80, 59, 125);
+    /* font stretch? */
+    font-variant: small-caps;
+    background-image: url(images-galleri/IMG_6893.heic);
+}
+
+.overskrift h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.overskrift h2 {
+    text-align: center;
+    size: 20px;
+}
+
+.ommig h1 {
+    font-size: 30px;
+}
