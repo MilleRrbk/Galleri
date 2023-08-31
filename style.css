@@ -1,21 +1,31 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    color: rgb(80, 59, 125);
+    color: rgb(61, 45, 97);
     /* font stretch? */
     font-variant: small-caps;
-    background-image: url(images-galleri/IMG_6893.heic);
+    background-image: url(images-galleri/mostræ.jpeg);
+    background-size: cover;
+    
 }
 
+.overskrift {
+    height: 200px;
+  background-image: linear-gradient(rgb(254, 180, 180, 1), rgba(218, 116, 255, 0));
+}
 .overskrift h1 {
-    text-align: center;
+    text-align: center; 
     font-size: 60px;
 }
 
 .overskrift h2 {
-    text-align: center;
+    text-align: center; 
     size: 20px;
 }
 
 .ommig h1 {
     font-size: 30px;
+}
+.ommig p {
+    font-size: 20px;
+    font-weight: 700;
 }
