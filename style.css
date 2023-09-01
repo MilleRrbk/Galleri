@@ -1,3 +1,4 @@
+/*hvordan pakker man det her ind???*/
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -20,7 +21,7 @@ time, mark, audio, video {
 }
 
 .all {
-    background-image: linear-gradient(rgb(23, 12, 28, 1), rgba(200, 100, 40, 0));
+    background-image: linear-gradient(rgb(10, 5, 12), rgba(200, 100, 40, 0));
 }
 
 body {
@@ -29,7 +30,8 @@ body {
     /* font stretch? */
     font-variant: small-caps;
     background-size: cover;
-    background-image: url(images-galleri/hund.jpeg);
+    background-image: url(img-galleri/hund.jpeg);
+    
     
 }
 
@@ -52,6 +54,6 @@ body {
 }
 .ommig p {
     font-size: 20px;
-    font-weight: 100;
+    font-weight: 700;
 }
 
