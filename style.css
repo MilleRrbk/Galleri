@@ -21,7 +21,7 @@ time, mark, audio, video {
 }
 
 .all {
-    background-image: linear-gradient(rgb(10, 5, 12), rgba(200, 100, 40, 0));
+    background-image: linear-gradient(rgb(10, 5, 12, 1), rgb(70, 70, 70, 0));
 }
 
 body {
@@ -46,7 +46,7 @@ body {
 
 .overskrift h2 {
     text-align: center; 
-    size: 20px;
+    font-size: 60px;
 }
 
 .ommig h1 {
